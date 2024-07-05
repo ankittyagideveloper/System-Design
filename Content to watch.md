@@ -1,6 +1,6 @@
 | SNo. | System Design Topic                              | Completion | 
 |---|--------------------------------------------------|------------| 
-| 1 | [Design Vending Machine](https://lnkd.in/e9A7FdVm) |  [ ]     | 
+| 1 | [Design Vending Machine](https://lnkd.in/e9A7FdVm) |- [ ] Mercury  | 
 | 2 | [Design Facebook](https://lnkd.in/eNgMkQjN)       | [ ]        | 
 | 3 | [Design Distributed Job Scheduler](https://lnkd.in/eDduhS4k) | [ ]        | 
 | 4 | [Design Google Search](https://lnkd.in/e-WjtfdY)  | [ ]        | 
@@ -45,3 +45,6 @@
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
+
+1. [ ] Foo
+2. [ ] Foo
