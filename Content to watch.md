@@ -1,6 +1,6 @@
-| # | System Design Topic                              | Completion | 
+| SNo. | System Design Topic                              | Completion | 
 |---|--------------------------------------------------|------------| 
-| 1 | [Design Vending Machine](https://lnkd.in/e9A7FdVm) | [ ]        | 
+| 1 | [Design Vending Machine](https://lnkd.in/e9A7FdVm) |  [ ]     | 
 | 2 | [Design Facebook](https://lnkd.in/eNgMkQjN)       | [ ]        | 
 | 3 | [Design Distributed Job Scheduler](https://lnkd.in/eDduhS4k) | [ ]        | 
 | 4 | [Design Google Search](https://lnkd.in/e-WjtfdY)  | [ ]        | 
@@ -34,3 +34,14 @@
 | 32 | [Design Slack](https://lnkd.in/ejXs3B8E)          | [ ]        | 
 | 33 | [Design Distributed Locking Service](https://lnkd.in/e5_JzgBt) | [ ]        | 
 | 34 | [Design Twitter](https://lnkd.in/etCt5KhG)        | [ ]        | 
+
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
